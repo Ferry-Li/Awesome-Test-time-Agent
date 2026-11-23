@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="264" viewBox="0 0 1200 264" lang="en" role="img" aria-labelledby="title desc">
+  <title id="title">How LLM agents improve at test time</title>
+  <desc id="desc">A reading guide to action selection, experience reuse, and compute allocation.</desc>
+  <defs>
+    <clipPath id="cover"><rect width="1200" height="264" rx="12"/></clipPath>
+    <clipPath id="paper"><rect width="1200" height="192"/></clipPath>
+    <g id="press-lines" fill="none" stroke="#c67c60" stroke-width="1.5">
+      <ellipse cx="-130" cy="170" rx="211" ry="155"/>
+      <ellipse cx="-130" cy="170" rx="199" ry="146"/>
+      <ellipse cx="-130" cy="170" rx="187" ry="137"/>
+      <ellipse cx="-130" cy="170" rx="175" ry="128"/>
+      <ellipse cx="-130" cy="170" rx="163" ry="119"/>
+      <ellipse cx="-130" cy="170" rx="151" ry="110"/>
+    </g>
+  </defs>
+  <g clip-path="url(#cover)">
+    <rect width="1200" height="264" fill="#faf2e5"/>
+    <g clip-path="url(#paper)">
+      <use href="#press-lines" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#press-lines"/>
+      <use href="#press-lines" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#press-lines" transform="translate(1200 192) rotate(180)"/>
+    </g>
+    <path d="M557 36h32m22 0h32" stroke="#bb765e" stroke-width="1.5"/>
+    <path d="m600 32 4 4-4 4-4-4z" fill="#98432e"/>
+    <text x="600" y="107" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="57" font-weight="700" fill="#492a3b">How LLM agents improve at test time</text>
+    <text x="600" y="154" text-anchor="middle" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="26" fill="#744735">A reading guide to methods and evaluation</text>
+    <rect y="192" width="1200" height="72" fill="#593346"/>
+    <path d="M0 193h1200" stroke="#cd8664" stroke-width="3"/>
+    <path d="M401 214v29m398-29v29" stroke="#ad8290" stroke-width="1"/>
+    <g font-family="Inter, 'Segoe UI', Arial, sans-serif" font-weight="600" font-size="28" fill="#fff4e6">
+      <text x="200" y="238" text-anchor="middle">Action selection</text>
+      <text x="600" y="238" text-anchor="middle">Experience reuse</text>
+      <text x="1000" y="238" text-anchor="middle">Compute allocation</text>
+    </g>
+    <rect x=".75" y=".75" width="1198.5" height="262.5" rx="11.25" fill="none" stroke="#79554a" stroke-opacity=".35" stroke-width="1.5"/>
+  </g>
+</svg>
